@@ -1,0 +1,3 @@
+this is going to be shit, probably the python version here if i can figure out how to integrate capture with ffmpeg into a tkinter thing
+
+will have to figure out for both win and mac tho, or maybe just tie into quicktime via applescript for the mac side 
